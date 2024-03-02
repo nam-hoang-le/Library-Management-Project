@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "publisher": "J.B. Lippincott & Co.",
+        "pub_year": 1960,
+        "status": "Available"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "publisher": "Secker & Warburg",
+        "pub_year": 1949,
+        "status": "Available"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Classic",
+        "publisher": "T. Egerton",
+        "pub_year": 1813,
+        "status": "Available"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "publisher": "Charles Scribner's Sons",
+        "pub_year": 1925,
+        "status": "Available"
+    },
+    {
+        "id": 5,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Classic",
+        "publisher": "The Russian Messenger",
+        "pub_year": 1866,
+        "status": "Available"
+    },
+    {
+        "id": 6,
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "genre": "Satire",
+        "publisher": "Simon & Schuster",
+        "pub_year": 1961,
+        "status": "Available"
+    },
+    {
+        "id": 7,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "publisher": "Little, Brown and Company",
+        "pub_year": 1951,
+        "status": "Available"
+    },
+    {
+        "id": 8,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Dystopian",
+        "publisher": "Chatto & Windus",
+        "pub_year": 1932,
+        "status": "Available"
+    },
+    {
+        "id": 9,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "genre": "Political satire",
+        "publisher": "Secker & Warburg",
+        "pub_year": 1945,
+        "status": "Available"
+    },
+    {
+        "id": 10,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "publisher": "George Allen & Unwin",
+        "pub_year": 1937,
+        "status": "Available"
+    },
+    {
+        "id": 11,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "publisher": "Richard Bentley",
+        "pub_year": 1851,
+        "status": "Available"
+    },
+    {
+        "id": 12,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Historical",
+        "publisher": "The Russian Messenger",
+        "pub_year": 1869,
+        "status": "Available"
+    },
+    {
+        "id": 13,
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "genre": "Tragedy",
+        "publisher": "N/A",
+        "pub_year": 1603,
+        "status": "Available"
+    },
+    {
+        "id": 14,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "genre": "Epic",
+        "publisher": "N/A",
+        "pub_year": -725,
+        "status": "Available"
+    },
+    {
+        "id": 15,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "genre": "Epic",
+        "publisher": "N/A",
+        "pub_year": 1320,
+        "status": "Available"
+    },
+    {
+        "id": 16,
+        "title": "Les Mis\u0102\u00a9rables",
+        "author": "Victor Hugo",
+        "genre": "Historical",
+        "publisher": "A. Lacroix, Verboeckhoven & Cie.",
+        "pub_year": 1862,
+        "status": "Available"
+    },
+    {
+        "id": 17,
+        "title": "Jane Eyre",
+        "author": "Charlotte Bront\u0102\u00ab",
+        "genre": "Classic",
+        "publisher": "Smith, Elder & Co.",
+        "pub_year": 1847,
+        "status": "Available"
+    },
+    {
+        "id": 18,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "publisher": "Allen & Unwin",
+        "pub_year": 1954,
+        "status": "Available"
+    },
+    {
+        "id": 19,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Horror",
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "pub_year": 1818,
+        "status": "Available"
+    },
+    {
+        "id": 20,
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "genre": "Adventure",
+        "publisher": "Charles L. Webster And Company",
+        "pub_year": 1884,
+        "status": "Available"
+    },
+    {
+        "id": 21,
+        "title": "Wuthering Heights",
+        "author": "Emily Bront\u0102\u00ab",
+        "genre": "Classic",
+        "publisher": "Thomas Cautley Newby",
+        "pub_year": 1847,
+        "status": "Available"
+    },
+    {
+        "id": 22,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Classic",
+        "publisher": "Ward, Lock & Co.",
+        "pub_year": 1890,
+        "status": "Available"
+    },
+    {
+        "id": 23,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Horror",
+        "publisher": "Archibald Constable and Company",
+        "pub_year": 1897,
+        "status": "Available"
+    },
+    {
+        "id": 24,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "genre": "Historical",
+        "publisher": "Chapman & Hall",
+        "pub_year": 1859,
+        "status": "Available"
+    },
+    {
+        "id": 25,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "genre": "Classic",
+        "publisher": "Chapman & Hall",
+        "pub_year": 1861,
+        "status": "Available"
+    },
+    {
+        "id": 26,
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "genre": "Realist",
+        "publisher": "The Viking Press-James Lloyd",
+        "pub_year": 1939,
+        "status": "Available"
+    },
+    {
+        "id": 27,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Philosophical",
+        "publisher": "The Russian Messenger",
+        "pub_year": 1880,
+        "status": "Available"
+    },
+    {
+        "id": 28,
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "genre": "Satire",
+        "publisher": "Delacorte",
+        "pub_year": 1969,
+        "status": "Available"
+    },
+    {
+        "id": 29,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Adventure",
+        "publisher": "HarperTorch",
+        "pub_year": 1988,
+        "status": "Available"
+    },
+    {
+        "id": 30,
+        "title": "Life of Pi",
+        "author": "Yann Martel1",
+        "genre": "Adventure",
+        "publisher": "Knopf Canada",
+        "pub_year": 2001,
+        "status": "Available"
+    }
+]
